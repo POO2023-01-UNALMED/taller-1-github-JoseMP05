@@ -1,3 +1,9 @@
 Jose Miguel Pulgarin Agudelo
 17 años
 Aspiro a entender y manejar de manera profesional el paradigma de la programación orientada a objetos.
+
+Conflicto solucionado
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque al trabajar con varios archivos al mismo tiempo tendremos conflictos puesto que 
+git no sabra a que cambió darle prioridad
